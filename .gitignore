@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+*/__pycache__
+engine/__pycache__
+engine/datafeed/__pycache__
+
+*.py[cod]
+*$py.class
+
+**.DS_Store
+
